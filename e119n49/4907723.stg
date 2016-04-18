@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Airport/ndb.ac 119.795 49.211667 664.86 180
+OBJECT_SHARED Models/Airport/ils.xml 119.838583 49.206861 651.42 96.3
+OBJECT_SHARED Models/Communications/vordme_1.xml 119.823333 49.201667 654.48 180
+OBJECT_SHARED Models/Airport/marker.ac 119.856369 49.207292 641.57 180
+OBJECT_SHARED Models/Airport/marker.ac 119.96 49.215 618.78 180
+OBJECT_SHARED Models/Airport/localizer.xml 119.801103 49.203272 666.91 353.72
+OBJECT_SHARED Models/Residential/ZoneImmeublesHauts.xml 119.759932 49.1997814 612.11 0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml 119.7520534 49.2049531 610.25 0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml 119.7559833 49.2118385 611.84 0
+OBJECT_SHARED Models/Residential/hochhaus_asemwald.xml 119.7563776 49.2091129 615.11 0
+OBJECT_SHARED Models/Airport/Vehicle/FireTruck_7.30m.ac 119.8149412 49.2064848 651.81 0
+OBJECT_SHARED Models/Airport/Vehicle/Fuel_Truck.ac 119.8148194 49.2064873 651.78 0
+OBJECT_SHARED Models/Airport/LFBI_Tower.ac 119.8037351 49.2067543 664.02 8
+OBJECT_SHARED Models/Airport/Terminal-ru1.ac 119.8140524 49.2065487 653.31 96
