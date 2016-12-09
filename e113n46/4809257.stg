@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Airport/ndb.ac 113.284667 46.671861 980.41 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 113.28578 46.67046 977.08 39.61
+# END dsf2stg
